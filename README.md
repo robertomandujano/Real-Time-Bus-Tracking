@@ -8,4 +8,8 @@ How to run
 
 Future Improvements
 
-* 
+* Potential improvements for this exercise consist of expanding the data displayed to include other bus routes as well as give the user the option to switch to a route for a different city with the use of a navigation bar.
+
+License Information
+
+MIT License-refer to "LICENSE" file above.
